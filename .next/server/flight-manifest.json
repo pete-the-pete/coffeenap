@@ -111,7 +111,8 @@
       "static/css/_app-client_src_app_globals_css.css"
     ],
     "/Users/petethepete/workspace/coffeenap/src/app/page": [
-      "static/css/_app-client_src_app_page_module_css.css"
+      "static/css/_app-client_src_app_page_module_css.css",
+      "static/css/_app-client_node_modules_fortawesome_fontawesome-svg-core_styles_css.css"
     ]
   },
   "/Users/petethepete/workspace/coffeenap/node_modules/next/dist/client/components/app-router.js": {
@@ -328,6 +329,15 @@
       "name": "default",
       "chunks": [
         "static/css/_app-client_src_app_globals_css.css"
+      ]
+    }
+  },
+  "/Users/petethepete/workspace/coffeenap/node_modules/@fortawesome/fontawesome-svg-core/styles.css": {
+    "default": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/_app-client_node_modules_fortawesome_fontawesome-svg-core_styles_css.css"
       ]
     }
   },

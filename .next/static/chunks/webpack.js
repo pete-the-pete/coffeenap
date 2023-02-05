@@ -180,7 +180,7 @@
 /******/ 	
 /******/ 	/* webpack/runtime/getFullHash */
 /******/ 	!function() {
-/******/ 		__webpack_require__.h = function() { return "f91294f1655420d8"; }
+/******/ 		__webpack_require__.h = function() { return "65d914cf3c2e2e4c"; }
 /******/ 	}();
 /******/ 	
 /******/ 	/* webpack/runtime/global */
@@ -786,7 +786,7 @@
 /******/ 		};
 /******/ 		
 /******/ 		__webpack_require__.f.miniCss = function(chunkId, promises) {
-/******/ 			var cssChunks = {"_app-client_src_app_page_module_css":1,"_app-client_src_app_globals_css":1};
+/******/ 			var cssChunks = {"_app-client_node_modules_fortawesome_fontawesome-svg-core_styles_css":1,"_app-client_src_app_page_module_css":1,"_app-client_src_app_globals_css":1};
 /******/ 			if(installedCssChunks[chunkId]) promises.push(installedCssChunks[chunkId]);
 /******/ 			else if(installedCssChunks[chunkId] !== 0 && cssChunks[chunkId]) {
 /******/ 				promises.push(installedCssChunks[chunkId] = loadStylesheet(chunkId).then(function() {

@@ -8,12 +8,13 @@
 }
 
 .center {
-  justify-content: center;
-  align-items: center;
-  position: relative;
+  display: flex;
   padding: 4rem 0;
   color: #785e22;
-  font-size: x-large;
+  font-size: large;
+  justify-content: center;
+  flex-direction: column;
+  flex-grow: 1;
 }
 
 .footer {

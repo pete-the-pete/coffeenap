@@ -11,12 +11,13 @@
 }
 
 .page_center__GvJ9Y {
-  justify-content: center;
-  align-items: center;
-  position: relative;
+  display: flex;
   padding: 4rem 0;
   color: #785e22;
-  font-size: x-large;
+  font-size: large;
+  justify-content: center;
+  flex-direction: column;
+  flex-grow: 1;
 }
 
 .page_footer__lVP8S {
