@@ -1,0 +1,21 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 6rem;
+  min-height: 100vh;
+  justify-content: inherit;
+}
+
+.center {
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  padding: 4rem 0;
+  color: #785e22;
+  font-size: x-large;
+}
+
+.footer {
+  margin-top:auto;
+}
